@@ -1,0 +1,109 @@
+.min-h-screen {
+    min-height: 100vh;
+}
+
+/* .bg-red{
+    background-color: red;
+} */
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.font-bold {
+    font-weight: 900;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.my-1 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.px-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.px-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.text-blue {
+    color: rgb(95, 73, 148);
+}
+
+.btn {
+    padding: 8px 12px;
+    border: 2px solid black;
+    border-radius: 40px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(95, 73, 148);
+}
+
+.overflow-hidden {
+    overflow-x: hidden;
+}
+
+.text-center {
+    text-align: left;
+    margin-left: 126px;
+    margin-top: 30px;
+}
+
+.justify-left {
+    justify-content: left;
+}
+
+.box {
+    margin: 12px 9px;
+    text-align: center;
+    min-width: 20vw;
+    border: 2px solid rgb(95, 73, 148);
+    padding-top: 2px;
+    border-radius: 50px;
+
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+
+.highlighted {
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+
+.box h2 {
+    font-size: 1.5rem;
+}
